@@ -1,9 +1,27 @@
-<h1 align="center">Hi 👋, I'm Lin Qing Wei (Alice)</h1>
-<h3 align="center">🎓 即將從中正大學資訊工程研究所畢業 | 社會新鮮人 🔬 所屬實驗室：認知與使用者科技實驗室 💻 擅長技術：Python、C、C++ 🌱 曾接觸過語音辨識、深度學習及程式設計教育相關領域</h3>
+# Hi, I'm Lin Qing Wei (Alice) 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+🎓 即將從中正大學資訊工程研究所畢業 | 社會新鮮人  
+🔬 所屬實驗室：認知與使用者科技實驗室  
+💻 擅長技術：Python、C、C++  
+🌱 曾接觸過語音辨識、深度學習及程式設計教育相關領域  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🚀 主要專案
+
+- **語音辨識與英⽂口說教學軟體**  
+  * 結合語音辨識技術協助英語口說學習的應用軟體開發。
+  * 使用 IntelliJ 與 Flutter 開發 APP，並用 Python 結合 FastAPI 建置後台。
+
+- **交通事故偏差檢測**  
+  分析台北市交通事故資料，檢測並識別數據中的性別或車種偏差。
+
+- **Code-Way：程式設計轉換學習環境**  
+  * 碩士學術論文成果。
+  * 設計與評估初學者在積木式與文字式程式設計間的轉換過程。
+
+## 🛠 技能工具
+
+- 程式語言：Python、C、C++  
+
+## 📫 聯絡我
+
+📧 0727qingwei@gmail.com
